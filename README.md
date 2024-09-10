@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ![gitartwork](gitartwork.svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00F7CB&center=true&vCenter=true&width=435&lines=C%2B%2B+CODER;MERN+STACK+DEVELOPER;ML%2FAI+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handjet&size=25&pause=1000&color=56E4F8&width=435&lines=Software+Devloper;Modern+C%2B%2B+devloper;OOPS+Programming;DevOps+Engineer)](https://git.io/typing-svg)
 
 <h4>LinkedIn Profile --</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yogesh-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/animesh-arya-2407/)](https://www.linkedin.com/in/animesh-arya-2407/)  
+[![Linkedin Badge](https://img.shields.io/badge/-Animesh-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/animesh-arya-2407/)](https://www.linkedin.com/in/animesh-arya-2407/)  
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 <div><h2>SKILLS - </h2></div> 
   <h2>Programming Languages</h2>
   
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=&logoColor=white)
  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=C++&logoColor=white)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=sql&logoColor=ffdd54) 
+ ![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+ ![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=sql&logoColor=white) 
 
   <h2>Coreskills</h2>
  
