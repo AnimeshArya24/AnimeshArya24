@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![gitartwork](gitartwork.svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handjet&size=25&pause=1000&color=56E4F8&width=435&lines=Software+Devloper;Modern+C%2B%2B+devloper;OOPS+Programming;DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handjet&size=25&pause=1000&color=56E4F8&width=435&lines=Software+Developer;Modern+C%2B%2B+developer;OOPS+Programming;DevOps+Engineer)](https://git.io/typing-svg)
 
 <h4>LinkedIn Profile --</h4>
 
