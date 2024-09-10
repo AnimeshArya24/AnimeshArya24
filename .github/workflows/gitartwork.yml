@@ -9,10 +9,10 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: animesharya24/gitartwork@v1
+       - uses: AnimeshArya24/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: Animesharya24
             # Text on contribution graph 
             text: ANIMESH
-       - uses: animesharya24/simple-push-action@v1
+       - uses: AnimeshArya24/simple-push-action@v1
